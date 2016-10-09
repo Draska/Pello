@@ -1,0 +1,27 @@
+
+body {
+    background-color: black;
+}
+
+
+
+h1 {
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+    color: purple;
+}
+h2 {
+    color: rebeccapurple;
+    text-align:center;
+}
+h3 {
+    color: rebeccapurple;
+    text-align:center;
+}
+h4 {
+    color: rebeccapurple;
+    text-align:center;
+}
